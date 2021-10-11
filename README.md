@@ -48,9 +48,9 @@ WIFI密码: 1234567890
 管理账号密码: admin
 
 源码地址供参考:
-https://github.com/hanwckf/rt-n56u
-https://github.com/chongshengB/rt-n56u
-https://github.com/padavanonly/rt-n56u
-https://github.com/immortalwrt/padavan
-https://github.com/xumng123/rt-n56u
-https://github.com/vb1980/Padavan-KVR
+https://github.com/hanwckf/rt-n56u  
+https://github.com/chongshengB/rt-n56u  
+https://github.com/padavanonly/rt-n56u  
+https://github.com/immortalwrt/padavan  
+https://github.com/xumng123/rt-n56u  
+https://github.com/vb1980/Padavan-KVR  
