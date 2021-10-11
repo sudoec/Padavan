@@ -47,7 +47,7 @@ WIFI密码: 1234567890
 管理地址: 192.168.123.1
 管理账号密码: admin
 
-源码地址供参考:
+源码地址供参考:  
 https://github.com/hanwckf/rt-n56u  
 https://github.com/chongshengB/rt-n56u  
 https://github.com/padavanonly/rt-n56u  
