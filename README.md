@@ -42,6 +42,11 @@ fakeroot ./build_firmware_modify K2P  #K2P就是对应型号路由器的配置�
 ```
 
 # 配置
+* iptables tproxy支持:
+
+```
+modprobe xt_TPROXY
+```
 固件默认WIFI名称PDCN及PDCN_5G  
 WIFI密码: 1234567890  
 管理地址: 192.168.123.1  
