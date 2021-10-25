@@ -1,5 +1,5 @@
 THISDIR := $(shell pwd)
-VERSION := 1.4.3
+VERSION := 1.5.0
 
 BIN_PREFIX := xray-core-mipsle
 
